@@ -1,4 +1,4 @@
-fileName = "output.txt"
+fileName = "../output.txt"
 
 try:
     with open(fileName, "r+") as file1:
